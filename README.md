@@ -16,7 +16,7 @@ To get this plugin working, you need to set up a Discord Bot and configure the p
 2. Click **New Application** and give it a name (e.g., "Server Feedback Bot").
 3. Navigate to the **Bot** tab on the left menu.
 4. Click **Reset Token** and copy your **Bot Token**. Keep this token secret!
-5. Go to the **OAuth2 > URL Generator** tab. Select the ot scope and give it Send Messages permissions.
+5. Go to the **OAuth2 > URL Generator** tab. Select the Bot scope and give it Send Messages permissions.
 6. Copy the generated URL, paste it into your browser, and invite the bot to your Discord server.
 7. In your Discord app, enable **Developer Mode** (User Settings > Advanced > Developer Mode). Right-click on the channel where you want the bot to send feedback and click **Copy Channel ID**.
 
