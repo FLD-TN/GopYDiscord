@@ -1,0 +1,9 @@
+name: GopYDiscord
+version: '1.0-SNAPSHOT'
+main: com.example.gopydiscord.GopYDiscord
+api-version: '1.21'
+commands:
+  gopy:
+    description: Gửi góp ý lên Discord
+    usage: /gopy <nội dung góp ý>
+    permission: gopydiscord.use

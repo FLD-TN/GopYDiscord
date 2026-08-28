@@ -1,0 +1,10 @@
+# Cấu hình Discord Bot
+discord:
+  token: "YOUR_BOT_TOKEN"
+  channel-id: "YOUR_CHANNEL_ID"
+
+# Tin nhắn
+messages:
+  success: "§aGóp ý của bạn đã được gửi thành công!"
+  error: "§cCó lỗi xảy ra khi gửi góp ý. Vui lòng thử lại sau!"
+  no-permission: "§cBạn không có quyền sử dụng lệnh này!"
