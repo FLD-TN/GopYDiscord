@@ -46,4 +46,4 @@ If you want to build this plugin yourself:
 1. Ensure you have Java (appropriate version for 1.21 API) and Maven installed.
 2. Clone this repository.
 3. Run mvn clean package in the project root directory.
-4. The compiled jar will be located in the 	arget/ directory.
+4. The compiled jar will be located in the Target/ directory.
